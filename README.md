@@ -9,8 +9,10 @@
 
 - ⭐ I'm interested in **AI, ComputerVision, Embedded, Robotics, Trading**  
 
-- 📝 I regularly write articles on [https://studyhoons.tistory.com/](https://studyhoons.tistory.com/)
+- 📝 I regularly write articles on [https://studyhoons.tistory.com](https://studyhoons.tistory.com)
 
+- 📔 I run an educational blog On [https://blog.naver.com/jaehoon9723](https://blog.naver.com/jaehoon9723)
+  
 - 📫 How to reach me **tshoon0723@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
