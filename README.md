@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shoons23" alt="shoons23" /></a> </p>
 
-- 🔭 I’m currently working on **not doing anything**
+- 🔭 I’m currently working on **GWNU**
 
 - ⭐ I'm interested in **AI, ComputerVision, Embedded, Robotics, Trading**  
 
